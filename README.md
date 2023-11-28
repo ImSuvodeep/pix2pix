@@ -15,7 +15,7 @@ Training Options: The repository provides customizable training options, includi
 
 Getting Started:
 
-Clone the repository: git clone https://github.com/your-username/pix2pix.git
+Clone the repository: git clone https://github.com/ImSuvodeep/pix2pix.git
 Install dependencies: pip install -r requirements.txt
 Download and preprocess your dataset.
 Configure training parameters in the provided configuration files.
